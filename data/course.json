@@ -1,0 +1,34 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Financial Economics"
+    ],
+    [
+      "Business",
+      "Finance"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "744a26f3-c3cf-9dd6-bd52-a8d351dbfc8e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Finance Theory I",
+  "course_description": "This course introduces the core theory of modern financial economics and financial management, with a focus on capital markets and investments. Topics include functions of capital markets and financial intermediaries, asset valuation, fixed-income securities, common stocks, capital budgeting, diversification and portfolio selection, equilibrium pricing of risky assets, the theory of efficient markets, and an introduction to derivatives and options.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.401",
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Lecture Videos",
+    "Problem Sets with Solutions"
+  ],
+  "title": "Course Metadata"
+}
